@@ -40,5 +40,15 @@ SESSION_SECRET=<enter an arbitrary string here>
 JWT_SECRET=<enter an arbitrary string here>
 PORT=<enter your port number here>
 ```
+# Projject images 
 
+![Home Page](/image/gusto_home.png)
+<hr>
+![Login Page](/image/gusto_login.png)
+<hr>
+![Signup Page](/image/gusto_signup.png)
+<hr>
+![Profile Page](/image/gusto_profile.png)
+<hr>
+![Users Page](/image/gusto_users.png)
 
