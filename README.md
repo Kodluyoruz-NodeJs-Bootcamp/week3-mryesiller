@@ -1,5 +1,6 @@
 ## Week3-mryesiller Gusto&RemoteTeam Typescript Auth project
-<hr>
+
+![Gusto](/image/gusto.png)
 
 <p> In this project, the user can create his own account and log in to the system. After logging into the system, he can change his registration information and password, and if he wishes, he can also delete his account. Login is required to view user records.</p>
 
