@@ -43,12 +43,12 @@ PORT=<enter your port number here>
 # Project images 
 
 ![HomePage](/image/gusto_home.png)
-<hr>
+
 ![LoginPage](/image/gusto_login.png)
-<hr>
+
 ![SignupPage](/image/gusto_signup.png)
-<hr>
+
 ![ProfilePage](/image/gusto_profile.png)
-<hr>
+
 ![UsersPage](/image/gusto_users.png)
 
