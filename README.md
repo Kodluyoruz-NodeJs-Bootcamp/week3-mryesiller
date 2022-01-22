@@ -48,7 +48,7 @@ PORT=<enter your port number here>
 
 ![SignupPage](/image/gusto_signup.png)
 
-![ProfilePage](/image/gusto_profil.png)
+![ProfilePage](/image/gusto_profile.png)
 
 ![UsersPage](/image/gusto_users.png)
 
