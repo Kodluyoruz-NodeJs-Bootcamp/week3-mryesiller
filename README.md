@@ -4,7 +4,6 @@
 <p> In this project, the user can create his own account and log in to the system. After logging into the system, he can change his registration information and password, and if he wishes, he can also delete his account. Login is required to view user records.</p>
 
 ## Technologies 
-<hr>
 
 * NodeJS
 * Typescript
@@ -21,12 +20,12 @@
 * jsonwebtoken
 * MVC architecture
 
-
 ## Installation
-<hr>
+
 Clone the project to your local repository
-```
+```javascript
 git clone https://github.com/Kodluyoruz-NodeJs-Bootcamp/week3-mryesiller
+
 ```
 Install the dependencies of the project
 
