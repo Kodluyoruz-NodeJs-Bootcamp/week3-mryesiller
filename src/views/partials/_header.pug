@@ -1,0 +1,21 @@
+header.header
+  nav.nav.nav--tours
+    a.nav__el(href='/') Gusto&RemoteTeam
+  .header__logo
+    img(src='/img/gusto.png' alt='Gusto logo')
+  nav.nav.nav--user
+    if user
+      a.nav__el(href='/account') Profile         
+        //-span= user.username || user.email || user.id      
+      a.nav__el.nav__el--logout(href='/logout') Log out      
+        //- if user.profile.picture
+        //-     //--img(src=user.profile.picture, alt=(user.profile.name || user.email || user.id))
+        //- else
+        //-     //--img(src=user.gravatar(60), alt=(user.profile.name || user.email || user.id))
+        //- span= user.username || user.email || user.id
+        //- i.caret
+        //--img.nav__user-img(src=`/img/users/${user.photo}` alt=`Photo of ${user.name}`)
+        //--span= user.name.split(' ')[0]
+    else
+      a.nav__el(href='/login') Log in
+      a.nav__el.nav__el--cta(href='/signup') Sign up
