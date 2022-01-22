@@ -40,7 +40,7 @@ SESSION_SECRET=<enter an arbitrary string here>
 JWT_SECRET=<enter an arbitrary string here>
 PORT=<enter your port number here>
 ```
-# Projject images 
+# Project images 
 
 ![Home Page](/image/gusto_home.png)
 <hr>
