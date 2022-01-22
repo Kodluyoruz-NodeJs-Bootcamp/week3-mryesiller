@@ -42,13 +42,13 @@ PORT=<enter your port number here>
 ```
 # Project images 
 
-![Home Page](/image/gusto_home.png)
+![HomePage](/image/gusto_home.png)
 <hr>
-![Login Page](/image/gusto_login.png)
+![LoginPage](/image/gusto_login.png)
 <hr>
-![Signup Page](/image/gusto_signup.png)
+![SignupPage](/image/gusto_signup.png)
 <hr>
-![Profile Page](/image/gusto_profile.png)
+![ProfilePage](/image/gusto_profile.png)
 <hr>
-![Users Page](/image/gusto_users.png)
+![UsersPage](/image/gusto_users.png)
 
